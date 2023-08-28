@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishvesh Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishveshc" alt="vishveshc" /></a> </p>
-
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/VishveshC/CoolCMDWebsite)
 
 - 🌱 I’m currently learning **Python, HTML, CSS, JS**
