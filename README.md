@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/fiftyshadesofdarkgrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fiftyshadesofdarkgrey" height="30" width="40" /></a>
-<a href="https://discord.gg/OpenTheFukingDoor#8793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="OpenTheFukingDoor#8793" height="30" width="40" /></a>
+<a href="https://instagram.com/fiftyshadesofdarkgrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fs.msi" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/758655769444483102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fs.msi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
