@@ -1,21 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishvesh Chaudhari</h1>
 <h3 align="center">Commited to stuff I'm not supposed to</h3>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/VishveshC/CoolCMDWebsite)
-
-- 🌱 I’m currently learning **Python, HTML, CSS, JS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/VishveshC](https://github.com/VishveshC)
-
-- 📝 I regularly write articles on [https://open.uwus.xyz](https://open.uwus.xyz)
-
-- 💬 Ask me about **Linux, HTML, CSS**
-
-- 📫 How to reach me **stepper1947@gmail.com**
-
-- 📄 Know about my experiences [https://open.uwus.xyz](https://open.uwus.xyz)
-
-- ⚡ Fun fact **I think I'm funny**
+- 📫 How to reach me **vishveshchaudhar13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
