@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **vishveshchaudhar13@gmail.com**
 - Minor issues fixed:
-https://github.com/ntoporcov/iQbit/issues/72#issuecomment-1635800204
+**https://github.com/ntoporcov/iQbit/issues/72#issuecomment-1635800204**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
